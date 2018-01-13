@@ -1,3 +1,7 @@
+Original text for the readme below. I've added into this uh, git hub thing the 3d printable files I generated from keebio's AI files. They all work. Also on thingiverse: https://www.thingiverse.com/thing:2728375
+
+
+
 Iris Keyboard Case
 ==================
 
